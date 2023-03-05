@@ -1,0 +1,1 @@
+import * as Locators from '../pageObjects/locators.js';
